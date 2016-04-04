@@ -8,4 +8,4 @@ Default password: admin
 
 
 
-Live demonstration: https://github.com/JoaoArtur/AutoMarketing
+Live demonstration: http://anarchymirror.tk/AutoMarketing/
