@@ -5,7 +5,7 @@
 		www.github.com/JoaoArtur
 		www.youtube.com/c/KeniGamer
 
-		Greetz: Tibaah, Hayner, Mc Hackudão, Fuckzeraa, Xablazin, Smoke xxx, Felipe Trote, BeeCoding, Tuurky
+		Greetz: Tibaah, Hayner, Mc Hackudão, N1ghtm4R3, Fuckzeraa, Xablazin, Smoke xxx, Felipe Trote, BeeCoding, Tuurky
 	*/
 		error_reporting(0);
 		session_start();
