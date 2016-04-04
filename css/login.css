@@ -1,0 +1,32 @@
+body {
+	font-family: Raleway,"Trebuchet MS";
+	background: #dddddd;
+}
+h1 {
+	text-shadow: #000 0 0 5px;
+}
+p {
+	text-shadow: #000 0 0 5px;
+}
+a {
+	text-decoration: none;
+	text-shadow: #3498db 0 0 8px;
+	color: #3498db;
+}
+input[type="text"],input[type="password"] {
+	background-color: white;
+	border: none;
+	border-radius: 3px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+}
+input[type="submit"] {
+	background-color: #3498db;
+	border: none;
+	border-radius: 3px;
+	width: 300px;
+	height: 30px;
+	margin-bottom: 5px;
+	color: #ddd;
+}
